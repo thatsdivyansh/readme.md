@@ -26,10 +26,10 @@
 
 ## 📌 Projects
 
-🛒 E-commerce Website
- Personal Expewnse Tracker
-💰 Expense Tracker
-🚗 Speed Detector System
+1🛒 E-commerce Website
+2 Personal Expewnse Tracker
+3💰 Expense Tracker
+4🚗 Speed Detector System
 
 ## 📫 Connect with Me
 

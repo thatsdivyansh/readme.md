@@ -20,7 +20,7 @@
 
 * 💻 Languages: Python, JavaScript
 * 🌐 Web: HTML, CSS, APIs
-* 🧰 Tools: Git, GitHub
+* 🧰 Tools: Git, GitHub.
 
 ---
 

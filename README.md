@@ -12,7 +12,7 @@
 * 🔭 Currently working on: E-commerce & Python Projects
 * 🌱 Learning: Artificial Intelligence & Machine Learning
 * 👨‍💻 Skills: HTML, CSS, JavaScript, Python
-* 🎯 Goal: Become a skilled AI/ML Engineer
+* 🎯 Goal: Become a skilled AI/ML Engineer.
 
 ---
 

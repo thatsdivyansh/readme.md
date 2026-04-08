@@ -34,6 +34,8 @@
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/thatsdivyansh/thatsdivyansh.git
+* CONTACT:
+* singhdivyansh21104@gmail.com
 
 ---
 
